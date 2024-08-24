@@ -1,3 +1,4 @@
+
 Librerias necesarias para correr el codigo: 
 
 npm install @react-navigation/native 
