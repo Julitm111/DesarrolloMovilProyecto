@@ -1,5 +1,5 @@
 import React from 'react';
-import { View, FlatList,Text, Pressable} from 'react-native';
+import { View, FlatList, Text, Pressable } from 'react-native';
 import CardItemCart from '../components/ShoppingCartCard';
 import styles from '../styles/shoppingCarStyles';
 
@@ -50,3 +50,4 @@ const car = [
 ];
 
 export default ShoppingCart;
+
